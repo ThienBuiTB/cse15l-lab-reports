@@ -1,3 +1,2 @@
 # cse15l-lab-reports
-![image](index.md)
-![image](lab1.md)
+https://thienbuitb.github.io/cse15l-lab-reports/lab1.md
