@@ -3,7 +3,7 @@
 - If you don't want to installed visual code, use the lab computer. If you also had Visual code installed on your laptop, you can skipped this step.
 - Second, follow this website instruction https://code.visualstudio.com/.
 - it should look something like this or similar to it when you finish.
-![](WM-Screenshots-20230410174804.jpg)
+![Image](WM-Screenshots-20230410174804.png)
 2. Remotely Connecting
 - Look for your cse15L account at https://sdacs.ucsd.edu/~icc/index.php.
 - add bash to your visual code, follow this step if you don't know how https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994.
