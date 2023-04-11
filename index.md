@@ -1,1 +1,2 @@
 Hello, world!
+![](welcome.md)
