@@ -1,2 +1,2 @@
 Hello, world!
-![](./welcome.md)
+![md](lab1.md)
