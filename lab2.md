@@ -5,7 +5,7 @@
 - 2
 ![image](hello.png)
 
-![image](how are you.png)
+![image](howareyou.png)
 ## Part 2
 - 2
 - 2
