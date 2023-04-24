@@ -8,8 +8,9 @@
 - Look for your cse15L account at [website2](https://sdacs.ucsd.edu/~icc/index.php).
 - add bash to your visual code, follow this step if you don't know how [website3](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994).
 - now using bash and this commandline  
-# code block
- `ssh cs15lsp23zz@ieng6.ucsd.edu`
+····# code block
+····print '3 backticks or'
+····print 'indent 4 spaces'
 - (replace the cs15lsp23zz with your cse15L account), you will be able to login into ieng6. Fyi, the password is invisible when you type your password, and to reset password you go to your cse15L account at step website2.
 - should look something like, when you login in.
 ![Image](WM-Screenshots-20230410175634.png)
