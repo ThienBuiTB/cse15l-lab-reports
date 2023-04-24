@@ -3,6 +3,8 @@
 - 2
 - 2
 - 2
+![image](hello.png)
+![image](how are you.png)
 ## Part 2
 - 2
 - 2
