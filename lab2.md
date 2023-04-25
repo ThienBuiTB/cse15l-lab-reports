@@ -35,6 +35,7 @@ I chosed the testreversesd bug in lab 3
 ![image](error.png)
 
 - the correct that the correct code gave
+
 ![image](correctest.png)
 
 - the code block for error and correct code.
