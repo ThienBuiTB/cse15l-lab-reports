@@ -25,9 +25,10 @@ I chosed the testreversesd bug in lab 3
 ```
   # code block
   
+        newArray[i] = arr[arr.length - i - 1];
+    }
+    return newArray;
 ```
-![image](https://user-images.githubusercontent.com/130005318/234143235-9ff04afa-67c5-4047-b63b-a5d770b84489.png)
-
 ## Part 3
 - 2
 - 2
