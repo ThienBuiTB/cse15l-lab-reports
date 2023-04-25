@@ -22,7 +22,7 @@ I chosed the testreversesd bug in lab 3
     return arr;
     
 ```
-- ```
+ ```
   # code block
   
         newArray[i] = arr[arr.length - i - 1];
