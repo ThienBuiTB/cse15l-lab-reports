@@ -5,7 +5,7 @@
 ![image](hello.png)
 - handleRequest is the method that's being called.
 - The argument is URL url and the value being URL
-- The value doesn't change because it used the same method
+- The value doesn't change because we need to use the url to get the paths and query.
 
 
 ![image](howareyou.png)
