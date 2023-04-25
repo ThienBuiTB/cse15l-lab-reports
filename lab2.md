@@ -23,7 +23,7 @@ I chosed the testreversesd bug in lab 3
     return arr;
     
 ```
-- the correct induce code
+- the correct code
  ```
   # code block
   
@@ -60,8 +60,7 @@ I chosed the testreversesd bug in lab 3
        return newArray;
   }
 ```
-- this fix the issues because before the code were changing the current array and not the new one that you need to change, which cause the output to be 0. -- - Now with the correct way, the code are changing the new Array with the current array, which will give out the correct output.
+- this fix the issues because before the code were changing the current array and not the new one that you need to change, which cause the output to be 0.
+- Now with the correct way, the code are changing the new Array with the current array, which will give out the correct output.
 ## Part 3
-- 2
-- 2
-- 2
+- What I learned from week 2 that I didn't knew before was using the server and the url, such as manipulate the url to get the output like adding and increment. What I learned from week 3 was creating a StringServer by using my past experience with the NumberServer from week 2. The new thing was making the url get the pathway instead of the querey. The hardest part of making the string server was making the String appear onto the localhost page and storing the string.
