@@ -13,9 +13,21 @@
 - The argument is URL url and the value being URL
 - The value doesn't change because it's using the same method as the above image.
 ## Part 2
-- 2
-- 2
-- 2
+I chosed the testreversesd bug in lab 3
+```
+  # code block
+  
+        arr[i] = newArray[arr.length - i - 1];
+    }
+    return arr;
+    
+```
+```
+  # code block
+  
+```
+![image](https://user-images.githubusercontent.com/130005318/234143235-9ff04afa-67c5-4047-b63b-a5d770b84489.png)
+
 ## Part 3
 - 2
 - 2
