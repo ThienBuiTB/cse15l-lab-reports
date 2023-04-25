@@ -14,7 +14,7 @@
 - The value doesn't change because it's using the same method as the above image.
 ## Part 2
 I chosed the testreversesd bug in lab 3
-- ```
+```
   # code block
   
         arr[i] = newArray[arr.length - i - 1];
