@@ -31,6 +31,8 @@ I chosed the testreversesd bug in lab 3
     }
     return newArray;
 ```
+
+
 - the error that the failure gave
 ![image](error.png)
 
