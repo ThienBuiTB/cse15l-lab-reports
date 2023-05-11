@@ -3,15 +3,42 @@
 - The method is pretty similar to NumberServer
 ![image](WM-Screenshots-20230424165845.png)
 ![image](hello.png)
-- handleRequest is the method that's being called.
-- The argument is URL url and the value being URL
-- The value doesn't change because we need to use the url to get the paths and query.
+- handleRequest(in the Stringserver class) and the main method(in the number server class) is the method that's being called.
+handlerequest and main method method
+```
+  # code block
+  handlerequest method
+  public String handleRequest(URI url) {
+        if(url.getPath().contains("message")){
+            String[] parameter = url.getQuery().split("=");
+            help+= parameter[1];
+            help+= "\n";
+            return help;
+        }
+        return "404 Not Found!";
+        
+    }
+    
+  mian method
+  public static void main(String[] args) throws IOException {
+        if(args.length == 0){
+            System.out.println("Missing port number! Try any number between 1024 to 49151");
+            return;
+        }
 
+        int port = Integer.parseInt(args[0]);
+
+        Server.start(port, new StringServer());
+    }
+```
+- In this specific case, the handlerequest method, the argument is "url" and the value of "url" is URL. While, the main method has the argument of "args" and the value of String[]
+- The value doesn't change because we need to use the url to get the paths and query.
+- if you do use different value then it will most likely give you an error, like "Missing port number! Try any number between 1024 to 49151" or another error.
 
 ![image](howareyou.png)
 - handleRequest is the method that's being called.
 - The argument is URL url and the value being URL
-- The value doesn't change because it's using the same method as the above image.
+- The value doesn't change because it's using the same method as the above image. 
 ## Part 2
 I chosed the testreversesd bug in lab 3
 - the failure induce code
@@ -33,14 +60,18 @@ I chosed the testreversesd bug in lab 3
 ```
 
 
-- the error that the failure gave
+- the error that the failure gave.
+- what the error mean that the code wasn't giving what you were expecting
 ![image](error.png)
 
 - the correct that the correct code gave
+- This mean that the code give you the answer that you were expecting.
 
 ![image](correctest.png)
 
-- the code block for error and correct code.
+- the code block for error and correct code. 
+- The failure-induce and correct-induce result of the code is the two images above.
+- The error code was the first image(the error one) above, while the correct code was the second image(the correct one) above.
 ```
   # code block
   THE ERROR CODE
