@@ -5,7 +5,7 @@
 - ![image](wa.png)
 - Another rone I found useful is -empty. The reason is that it found empty file, which you can use to delete and have some file management.
 - Also, show unused file.
-- ![image](empty 2.png)
+- ![image](empty2.png)
 - ![image](lab4.png)
 - Another cmd I found interesting is -print becausse it shows all the pathway of the file, which can be useful to get the pathway.
 - ![iamge](print2.png)
