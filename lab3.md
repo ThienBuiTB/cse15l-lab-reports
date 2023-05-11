@@ -1,5 +1,7 @@
 # lab 3
 ## Part 1
+The website I used is [geeksforgeek](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+
 - The command that I research is the Find.
 - What I found interesting is -exec CMD for Find. The reason is that it shows if the command is sucessful by returning 0
 - ![image](wa.png)
@@ -14,4 +16,4 @@
 - ![image](4.png)
 - The next picture shows what happen if they can't find anything.
 - ![image](link2.png)
-- The website I used is [geeksforgeek](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+
