@@ -23,3 +23,4 @@ ssh cs15lsp23zz@ieng6.ucsd.edu
 Here was my result
 ![Image](WM-Screenshots-20230410180308.png)
 end
+The website I used is [geeksforgeek](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
