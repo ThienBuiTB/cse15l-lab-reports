@@ -66,8 +66,10 @@ I chosed the testreversesd bug in lab 3
 
 - the correct that the correct code gave
 - This mean that the code give you the answer that you were expecting.
+- When it ran, it didn't show the red box or any error, like the above image. 
+- It should've a green check mark on the side.
 
-![image](correctest.png)
+![image](WM-Screenshots-20230510191655.png)
 
 - the code block for error and correct code. 
 - The failure-induce and correct-induce result of the code is the two images above.
