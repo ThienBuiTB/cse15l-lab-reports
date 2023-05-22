@@ -19,16 +19,23 @@ c d l a b 7
   
   
 ## Test if the code work correctly by complie junit and core, and running them:
+compile the code:
+
+
+j a v a c * . j a v a (enter)  
   
-  
+complie junit and core:
+
 j  a v a c - c p . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b / j u n i t - 4 . 1 3 . 2 . j a r * . j a v a (enter)
   
-  
-j a v a   - c p  . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b / j u n i t - 4 . 1 3 . 2 . j a r o r g . j u n i t . r u n n e r . J U n i t C o r e . . . (enter)
+run junit and core:
+
+
+j a v a   - c p  . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b / j u n i t - 4 . 1 3 . 2 . j a r o r g . j u n i t . r u n n e r . J U n i t C o r e L i s t E x a m p l e s T e s t s (enter)
   
   
 ## The  error:
-  ![image](lab4pic.png)
+  ![image](lab444444444.png)
 
 
 ## editing the java via vim:
