@@ -73,9 +73,9 @@ j a v a   - c p  . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b /
  : w  q (enter)
 
 
-## the successful
+## the success
 ![image](correctsad.png)
 
-#timer
+# timer
 
 ![image](timer.png)
