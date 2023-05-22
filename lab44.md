@@ -31,7 +31,7 @@ j  a v a c - c p . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b /
 run junit and core:
 
 
-j a v a   - c p  . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b / j u n i t - 4 . 1 3 . 2 . j a r o r g . j u n i t . r u n n e r . J U n i t C o r e L i s t E x a m p l e s T e s t s (enter)
+j a v a   - c p  . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b / j u n i t - 4 . 1 3 . 2 . j a r o r g . j u n i t . r u n n e r . J U n i t C o r e L i s t   E x a m p l e s T e s t s (enter)
   
   
 ## The  error:
