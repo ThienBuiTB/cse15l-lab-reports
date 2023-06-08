@@ -43,6 +43,8 @@ j a v a   - c p  . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b /
 
  v i m  L i s t E x a m p l e s . j a v a \<enter>\<esc>
  
+ 
+ 
  ## editing the  code:
  
  search:
