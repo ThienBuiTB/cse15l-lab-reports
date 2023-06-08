@@ -14,7 +14,7 @@ s h h c s 1 5 l s p 2 3 p d @ i e n g 6 . u c s d . e d u \<enter>
 g i t c l o n e h t t p s : / / g i t h u b . c o m / u c s d - c s e 1 5 l - s 2 3 / l a b 7 \<enter>
   
   
-c d l a b 7
+c d l a b 7 \<enter>
   
   
   
@@ -63,7 +63,7 @@ j a v a   - c p  . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b /
  delete the word:
  
  
- c w
+ c w 
  
  add the word:
  
