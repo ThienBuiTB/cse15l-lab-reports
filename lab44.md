@@ -80,6 +80,14 @@ j a v a   - c p  . : l i b / h a m c r e s t - c o r e - 1 . 3 . j a r : l i b /
 ## the success
 ![image](correctsad.png)
 
+## commit and push to git:
+
+g i t c o m m i t - m " s u c c e s s " \<enter>
+
+
+g i t p u s h \<enter>
+
+
 # timer
 
 ![image](timer.png)
